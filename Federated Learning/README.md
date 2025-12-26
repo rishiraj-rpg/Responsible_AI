@@ -117,9 +117,9 @@ Federated Learning is often described as a privacy-preserving technique since ra
 
 ### AI Disclosure
 
-We used AI-assisted tools (ChatGPT) at several points during this project:
+AI-assisted tools (Claude, ChatGPT) were utilized at several points during this project:
 
 - Code assistance: to help draft parts of the federated training loop, centralized baseline, and evaluation utilities.
 - Draft refinement: to improve clarity, structure, and professionalism in the write-up.
 
-All AI-generated content was carefully reviewed, debugged, and modified by us to ensure accuracy and correctness. We take full responsibility for the code, analysis, and results presented in this project.
+All AI-generated content was carefully reviewed, debugged, and modified to ensure accuracy and correctness.
