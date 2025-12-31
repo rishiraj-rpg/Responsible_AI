@@ -1,7 +1,7 @@
 # Federated Learning for Image Captioning (IID vs Non-IID)
 
 ## 📌 Project Overview
-This project explores **federated learning (FL)** using the **BLIP model** for image captioning. We simulate multiple clients with **IID** and **Non-IID** partitions to evaluate performance, convergence, and communication trade-offs.
+This project explores **federated learning (FL)** using the **BLIP model** for image captioning by simulating multiple clients with **IID** and **Non-IID** partitions to evaluate performance, convergence, and communication trade-offs.
 
 Colab link: https://colab.research.google.com/drive/1mQrmNuKlRHLvSbDyIo-gqzSM67p2fu8S?usp=sharing
 
